@@ -1,6 +1,6 @@
 # Dota-2-Statistics
 
-这是一个可以让你得到Dota 2进行中的游戏统计数据的工具，并能将这些数据保存在MongoDB中。请在使用前阅读此文件。 [English]() 
+这是一个可以让你得到Dota 2进行中的游戏统计数据的工具，并能将这些数据保存在MongoDB中。请在使用前阅读此文件。 [English](https://github.com/baozidai/Dota-2-Statistics/blob/master/README.md) 
 
 ## 使用方法
 
